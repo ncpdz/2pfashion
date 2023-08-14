@@ -5,4 +5,4 @@ const Ncp = () => {
         </>
     )
 }
-export default Ncp
+export default Ncp;
